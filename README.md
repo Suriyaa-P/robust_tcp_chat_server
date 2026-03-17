@@ -73,10 +73,8 @@ Most basic chat servers crash when a user abruptly closes their window. This pro
 ```bash
 python chat_client.py
 
-### **Terminal 2:**
-```bash
+**Terminal 2:**
 python chat_client.py
 
-### **Terminal 3:**
-```bash
+**Terminal 3:**
 python chat_client.py
